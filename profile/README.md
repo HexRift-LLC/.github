@@ -7,12 +7,10 @@ Our team is dedicated to delivering **reliable products** and **expert support**
 ## Our Projects
 Here are some of our featured products:
 
-- [**Hex License**](https://hexrift.net/products/Hex-License)
-- [**Hex Share**](https://hexrift.net/products/Hex-Share)
-- [**Hex Status 2.0**](https://hexrift.net/products/Hex-Status-20)
-- [**Hex Bot**](https://hexrift.net/products/Hex-Bot)
-- [**Hex AI Add-On**](https://hexrift.net/products/Hex-AI-Add-On)
-- [**Hex ToolBox**](https://hexrift.net/products/Hex-ToolBox)
+- [**Hex License**](https://hexrift.net/store/product/prod_Rz8JiifbCodjQy)
+- [**Hex Share**](https://hexrift.net/store/product/prod_RzDMYpjUlgRcx7)
+- [**Hex Status**](https://hexrift.net/store/product/prod_RzQanobnUqPRIG)
+- [**Hex Links**](https://hexrift.net/store/product/prod_Rz6i9PwtE8n8Jj)
 
 ...and so much more!
 
@@ -21,10 +19,6 @@ Stay connected and explore our services:
 
 - [Website](https://hexrift.net/)
 - [Server Status](https://hexrift.net/status)
-- [Hex Share](https://hexrift.net/share)
-- [Suggestion Forum](https://hexrift.net/forum)
-- [Bug Tracker](https://hexrift.net/track)
-- [Hex License](https://hexrift.net/auth)
 - [YouTube](https://hexrift.net/youtube)
 - [TikTok](https://hexrift.net/tiktok)
 - [Discord](https://hexrift.net/discord)
