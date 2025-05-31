@@ -1,6 +1,6 @@
-# Welcome to HexRift – Your Trusted Digital Marketplace! 🚀
+# Welcome to RiftNet – Your Trusted Digital Marketplace! 🚀
 
-At **HexRift**, we provide high-quality **mod menus**, **custom websites**, **Discord bots**, and **premium digital solutions**—all designed for top performance and ease of use. And there's more to come!
+At **RiftNet**, we provide high-quality **mod menus**, **custom websites**, **Discord bots**, and **premium digital solutions**—all designed for top performance and ease of use. And there's more to come!
 
 Our team is dedicated to delivering **reliable products** and **expert support** tailored to your needs. Whether you're looking for cutting-edge mods, custom development, or premium digital tools, **HexRift** has you covered.
 
